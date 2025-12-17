@@ -6,9 +6,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=data&logoColor=white)
 
-## 📸 Dashboard Preview
-*(Insert screenshot of the crime map interface here)*
-
 ## 💡 Overview
 This project was developed as part of a University Agile Software Engineering module. The goal was to build a full-stack application to track and analyze regional crime trends.
 
